@@ -1,18 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
 
+import os
+from termcolor import colored
+from time import sleep
+
 
 os.system("clear")
+
 
 print("""
 Author : D3pl0yzz Epysp
 Contato: wa.me/+5582981690602
 Telegram: @NinjaOFC
 """)
-
-import os
-from termcolor import colored
-from time import sleep
 
 
 ### Code
