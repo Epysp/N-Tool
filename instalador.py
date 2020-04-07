@@ -115,7 +115,7 @@ def instalar():
 		
 		print(colored("OBRIGADO POR USAR <3",'red'))
 		
-		break
+		exit()
 	
 while True:
 	instalar()
